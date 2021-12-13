@@ -1,0 +1,30 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "jest-another-rpg",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "jest": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamibia/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "node",
+    "javascript"
+  ],
+  "author": "bianca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamibia/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/chamibia/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}

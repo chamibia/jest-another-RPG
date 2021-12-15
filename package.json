@@ -26,5 +26,8 @@
   "homepage": "https://github.com/chamibia/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.4.4"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
